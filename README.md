@@ -1,2 +1,3 @@
-# C-
-Making a repo for all beginer must programs to follow upon learning c++
+# C++
+Making a Repo for all beginers must programs to follow upon learning c++
+making them in sequence for Learning C++ Language
