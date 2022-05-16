@@ -31,13 +31,13 @@ int main(){
     // cout<<m1.car;
 
     // ep harry;
-    // struct employee shubham;
-    // struct employee rohanDas;
-    // harry.eId = 1;
-    // harry.favChar = 'c';
-    // harry.salary = 120000000;
-    // cout<<"The value is "<<harry.eId<<endl; 
-    // cout<<"The value is "<<harry.favChar<<endl; 
-    // cout<<"The value is "<<harry.salary<<endl; 
+    // struct employee Prakhar;
+    // struct employee Ram ;
+    // ram.eId = 1;
+    // ram.favChar = 'c';
+    // ram.salary = 120000000;
+    // cout<<"The value is "<<ram.eId<<endl; 
+    // cout<<"The value is "<<ram.favChar<<endl; 
+    // cout<<"The value is "<<ram.salary<<endl; 
     return 0;
 }
