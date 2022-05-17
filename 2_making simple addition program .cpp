@@ -13,7 +13,7 @@ int main()
 	
 	cin >> num2;				 	       	//storing the input in num1 variable
 
-	cout << "the sum is : " << num1 + num2;      		 //we can do simple mathematics in c++ just by using operator signs i.e + - * / 
+	cout << "the sum is : " << num1 + num2;      		 // *********** we can do simple mathematics in c++ just by using operator signs i.e + - * / 
 
 	return 0;
 }
